@@ -10,4 +10,5 @@
 
 ### Otra Información
 - Este es mi primer contacto con github
-- Tengo un perro que se llama Timoteol
+- Tengo un perro que se llama Pampa y otra perra que se llama Candy.
+- Me gusta el rock and roll y tocar la guitarra.
